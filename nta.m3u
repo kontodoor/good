@@ -1,7 +1,5 @@
 #EXTINF:-1 group-title="18+",Fashion TV Midnite Secrets HD
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="18+",Babestation
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 #EXTINF:-1 group-title="18+",KINO 18+
 https://autopilot.catcast.tv/content/40381/index.m3u8?cur=tva.org.ua&key=3i277
 #EXTINF:-1 group-title="18+",Rough
@@ -54,20 +52,8 @@ http://cdn.adultiptv.net/lesbian.m3u8
 #EXTINF:-1 tvg-id="exxxotica" group-title="Взрослые [ВХОД СТРОГО 18+]", Exxxotica
 http://31.148.48.15:80/O-la-la/index.m3u8
 
-#EXTINF:-1 tvg-id="russkaya-noch" group-title="Взрослые [ВХОД СТРОГО 18+]", Русская ночь
-http://93.189.224.246:52900/play/a00s/index.m3u8
-
 #EXTINF:-1 tvg-id="playboy-tv" group-title="Взрослые [ВХОД СТРОГО 18+]", Playboy TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="hustler-tv" group-title="Взрослые [ВХОД СТРОГО 18+]", Hustler TV
-http://45.87.172.19:85/Hustler/index.m3u8
-
-#EXTINF:-1 tvg-id="super-one" group-title="Взрослые [ВХОД СТРОГО 18+]", Super One HD
-http://45.87.172.19:85/SuperOne_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="private-tv" group-title="Взрослые [ВХОД СТРОГО 18+]", Private HD
-http://45.87.172.19:85/PrivateTV/index.m3u8
 
 #EXTINF:-1 tvg-id="digital-desire" group-title="Взрослые [ВХОД СТРОГО 18+]", Digital Desire
 #EXTVLCOPT:http-user-agent=Wink
